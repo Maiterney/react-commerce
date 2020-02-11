@@ -1,5 +1,9 @@
 ## 🛍️ Simple ecommerce cart application
 
+<p align="center">
+  <img src="./doc/react-shopping-cart-min.gif">
+</p>
+
 ## Basic Overview
 
 This simple shopping cart prototype shows how React components and Redux can be used to build a
